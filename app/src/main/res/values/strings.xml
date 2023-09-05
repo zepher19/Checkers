@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Checkers</string>
+    <string name="red_turn">Red\'s Turn</string>
+    <string name="white_turn">White\'s Turn</string>
+    <string name="turn">\'s Turn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+
+
+</resources>
