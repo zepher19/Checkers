@@ -5,7 +5,7 @@ I'm currently looking for a coding job, so I decided to create a Checkers app to
 
 Here's some pictures:
 
-![Screenshot_20230918-115041](https://github.com/zepher19/Checkers/assets/108103331/06ee3219-0e62-4d7f-94ef-7c1e66737085)
+![checkers on homescreen](https://github.com/zepher19/Checkers/assets/108103331/891cdfec-289c-4a15-821a-d2c0a5846161)
 
 
 
