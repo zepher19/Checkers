@@ -5,11 +5,8 @@ I'm currently looking for a coding job, so I decided to create a Checkers app to
 
 Here's some pictures:
 
-![Screenshot_20230918-115041](https://github.com/zepher19/Checkers/assets/108103331/f0c259f4-7439-4b9d-a911-392ee8875224)
+![Screenshot_20230918-115041](https://github.com/zepher19/Checkers/assets/108103331/06ee3219-0e62-4d7f-94ef-7c1e66737085)
 
-![Screenshot_20230918-115032](https://github.com/zepher19/Checkers/assets/108103331/9c9e943c-485c-429f-87c5-120aaabd9cf6)
-
-![Screenshot_20230918-115006](https://github.com/zepher19/Checkers/assets/108103331/7d1c66fd-3b88-4bf8-8723-d73889a887d5)
 
 
 
