@@ -5,7 +5,9 @@ I'm currently looking for a coding job, so I decided to create a Checkers app to
 
 Here's some pictures:
 
-![image](https://github.com/zepher19/Checkers/assets/108103331/408bedad-a36a-4ac5-90f0-f25e2dc00e2c)  ![image](https://github.com/zepher19/Checkers/assets/108103331/3af60654-bbc3-4283-89a5-5edf6dfe00bc)   ![image](https://github.com/zepher19/Checkers/assets/108103331/ce8ea292-492f-4ceb-b69f-45ce75e773d0)
+![image](https://github.com/zepher19/Checkers/assets/108103331/408bedad-a36a-4ac5-90f0-f25e2dc00e2c)  ![image](https://github.com/zepher19/Checkers/assets/108103331/5cd2c76d-7711-416b-8bce-b8b805982d05) ![image](https://github.com/zepher19/Checkers/assets/108103331/807bbcc0-0f99-40da-a831-a85f55655e02)
+
+
 
 
 
