@@ -4,6 +4,7 @@ Hello there!
 I'm currently looking for a coding job, so I decided to create a Checkers app to showcase my Java language competency.
 
 Here's some pictures:
+(from left to right, icon on the homescreen, splash screen, game in progress)
 
 ![image](https://github.com/zepher19/Checkers/assets/108103331/408bedad-a36a-4ac5-90f0-f25e2dc00e2c)  ![image](https://github.com/zepher19/Checkers/assets/108103331/5cd2c76d-7711-416b-8bce-b8b805982d05) ![image](https://github.com/zepher19/Checkers/assets/108103331/807bbcc0-0f99-40da-a831-a85f55655e02)
 
